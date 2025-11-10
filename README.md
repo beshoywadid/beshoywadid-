@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Beshoy+Wadid+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BeshoyWadid)
 
@@ -21,9 +25,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=beshoywadid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=beshoywadid&icon=0&color=0)](https://visitcount.itsvg.in)
